@@ -9,4 +9,4 @@
 ###### Purpose:
     API contains currency it will return the whole list of other currencies
 
-#### Check out the live app [here](http://203.193.173.125/buildriseshine/api/reactjs/currency-convertor/)
+#### Check out the live app [here](https://priyanka23-brs.github.io/React-Currency-Convertor/)
